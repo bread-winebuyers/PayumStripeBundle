@@ -1,5 +1,5 @@
 {
-    "name": "flux-se/payum-stripe-bundle",
+    "name": "bread-winebuyers/payum-stripe-bundle",
     "description": "Payum Stripe gateways bundle",
     "type": "symfony-bundle",
     "license": "MIT",
